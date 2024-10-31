@@ -1,0 +1,501 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Push World\n"
+"POT-Creation-Date: 2017-06-26 01:59+0300\n"
+"PO-Revision-Date: 2017-06-26 02:00+0300\n"
+"Last-Translator: \n"
+"Language-Team: Push World\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: language\n"
+"X-Poedit-SearchPath-2: core\n"
+"X-Poedit-SearchPath-3: core/push.world-api-client\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+
+#: core/core.php:106 core/core.php:107 core/core.php:144 core/core.php:145
+msgid "Plugin Settings"
+msgstr "Настройки плагина"
+
+#: core/core.php:221
+msgid "Choose file"
+msgstr "Выберите файл"
+
+#: core/core.php:222
+msgid "Use selected file"
+msgstr "Использовать выбранный файл"
+
+#: core/core.php:471
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: core/core.php:472
+msgid "Saving"
+msgstr "Сохранение"
+
+#: core/core.php:473
+msgid "Saved"
+msgstr "Сохранено"
+
+#: core/core.php:474
+msgid ""
+"This action will delete all your settings. Are you sure? This action cannot "
+"be undone!"
+msgstr ""
+"Это действие удалит все ваши настройки. Вы уверены? Действие не может быть "
+"отменено!"
+
+#: core/core.php:475
+msgid "Restore default settings"
+msgstr "Установить настройки по умолчанию"
+
+#: core/core.php:485 core/core.php:613
+msgid "Text field"
+msgstr "Текстовое поле"
+
+#: core/core.php:504
+msgid "Textarea field"
+msgstr "Текст"
+
+#: core/core.php:523
+msgid "Checkbox"
+msgstr "Чекбокс"
+
+#: core/core.php:526
+msgid "Label"
+msgstr "Лейбл"
+
+#: core/core.php:546
+msgid "Select"
+msgstr "Селект"
+
+#: core/core.php:583 core/core.php:684
+msgid "Checkbox group"
+msgstr "Группа чекбоксов"
+
+#: core/core.php:634
+msgid "Media"
+msgstr "Медиа"
+
+#: core/core.php:647
+msgid "Open media library"
+msgstr "Открыть медиа библиотеку"
+
+#: core/core.php:657
+msgid "Color picker"
+msgstr "Выбор цвета"
+
+#: core/core.php:674
+msgid "Pick a color"
+msgstr "Выберите цвет"
+
+#: core/core.php:707
+msgid "HTML field"
+msgstr "HTML поле"
+
+#: core/core.php:715
+msgid "Table row"
+msgstr "Ряд таблицы"
+
+#: core/core.php:737
+msgid "Title field"
+msgstr "Заголовок"
+
+#: core/core.php:749
+msgid "Image radio"
+msgstr "Image radio"
+
+#: core/core.php:772
+msgid "Size"
+msgstr "Размер"
+
+#: core/core.php:830
+msgid ""
+"For full functionality of this page it is reccomended to enable javascript."
+msgstr ""
+"Для обеспечения полной функциональности этой страницы рекомендуется включить "
+"JavaScript."
+
+#: core/core.php:832
+msgid "Settings saved successfully"
+msgstr "Настройки успешно сохранены"
+
+#: core/core.php:833
+msgid "Settings reseted successfully"
+msgstr "Настройки успешно сброшены"
+
+#: core/core.php:834
+msgid "Something went wrong. Please try again later"
+msgstr "Что-то пошло не так. Пожалуйста, повторите попытку позже"
+
+#: core/core.php:873
+#, php-format
+msgid "option type %s is not callable"
+msgstr "опция типа %s не вызываемая"
+
+#: core/cron.php:8
+msgid "Every minute"
+msgstr "Каждую минуту"
+
+#: core/push.php:15 push-world.php:168
+msgid "Don't forget setup default push title"
+msgstr "Не забудьте установить стандартный заголовок пуша"
+
+#: core/push.php:17 push-world.php:176
+msgid "Don't forget setup default push text"
+msgstr "Не забудьте установить текст пуша по умолчанию"
+
+#: push-world.php:43
+msgid "Settings"
+msgstr "Настройки"
+
+#: push-world.php:93
+msgid "Embed Code:"
+msgstr "Эмбед код:"
+
+#: push-world.php:94
+msgid "Paste your embed code here"
+msgstr "Вставьте ваш код здесь"
+
+#: push-world.php:104
+msgid "API Settings"
+msgstr "Настройки API"
+
+#: push-world.php:111
+msgid "Platform code"
+msgstr "Platform code"
+
+#: push-world.php:112
+msgid "Enter your Platformcode"
+msgstr "Введите ваш Platform Code"
+
+#: push-world.php:119
+msgid "Client Id"
+msgstr "Client Id"
+
+#: push-world.php:120
+msgid "Enter your Client Id"
+msgstr "Введите ваш Client Id"
+
+#: push-world.php:127
+msgid "Client Secret"
+msgstr "Client Secret"
+
+#: push-world.php:128
+msgid "Enter your Client Secret"
+msgstr "Введите ваш Client Secret"
+
+#: push-world.php:137
+msgid "Default Push Settings"
+msgstr "Настройки пуша по умолчанию"
+
+#: push-world.php:144
+msgid "Push view duration"
+msgstr "Длительность показа пуша"
+
+#: push-world.php:145
+msgid "Time that push will be displayed. (in seconds)"
+msgstr "Время которое пуша будет отображаться. (в секундах)"
+
+#: push-world.php:152
+msgid "Push Lifetime"
+msgstr "Время жизни пуша"
+
+#: push-world.php:153
+msgid ""
+"Time that push will be waiting for user while that appear online. (in "
+"seconds)"
+msgstr "Время ожидания появления пользователя онлайн. (в секундах)"
+
+#: push-world.php:161
+msgid "Default Icon"
+msgstr "Иконка по умолчанию"
+
+#: push-world.php:162
+msgid "Set Default Icon for your push notifications"
+msgstr "Установите иконку по умолчанию для ваших душ уведомлений"
+
+#: push-world.php:169 push-world.php:264 push-world.php:363 push-world.php:462
+#: push-world.php:561 push-world.php:660 push-world.php:762 push-world.php:861
+#: push-world.php:960
+msgid "Push title"
+msgstr "Заголовок пуша"
+
+#: push-world.php:170
+msgid "Enter text for push title"
+msgstr "Введите текст для заголовка пуша"
+
+#: push-world.php:177 push-world.php:271 push-world.php:370 push-world.php:469
+#: push-world.php:568 push-world.php:667 push-world.php:769 push-world.php:868
+#: push-world.php:967
+msgid "Push text"
+msgstr "Текст пуша"
+
+#: push-world.php:178
+msgid "Enter push text"
+msgstr "Введите текст пуша"
+
+#: push-world.php:185 push-world.php:278 push-world.php:377 push-world.php:476
+#: push-world.php:575 push-world.php:674 push-world.php:776 push-world.php:875
+#: push-world.php:974
+msgid "Push url"
+msgstr "Ссылка пуша"
+
+#: push-world.php:186
+msgid "Url for push"
+msgstr "Ссылка для перехода с пуша"
+
+#: push-world.php:193
+msgid "Test Push"
+msgstr "Тестовый пуш"
+
+#: push-world.php:205
+msgid "WooCommerce Integration"
+msgstr "Интеграция с WooCommerce"
+
+#: push-world.php:213
+msgid "Enable WooCommerce Integration"
+msgstr "Включить интеграцию с WooCommerce"
+
+#: push-world.php:221 push-world.php:242
+msgid "Abandoned cart"
+msgstr "Забытая корзина"
+
+#: push-world.php:223 push-world.php:349
+msgid "Pending order"
+msgstr "Заказ в ожидании оплаты"
+
+#: push-world.php:224 push-world.php:448
+msgid "Processing order"
+msgstr "Заказ в обработке"
+
+#: push-world.php:225 push-world.php:547
+msgid "On hold order"
+msgstr "Заказ на удержании"
+
+#: push-world.php:226 push-world.php:646
+msgid "Completed order"
+msgstr "Заказ выполнен"
+
+#: push-world.php:227 push-world.php:748
+msgid "Cancelled order"
+msgstr "Заказ отменен"
+
+#: push-world.php:228 push-world.php:847
+msgid "Refunded order"
+msgstr "Заказ возвращен"
+
+#: push-world.php:229 push-world.php:946
+msgid "Failed order"
+msgstr "Заказ не удался"
+
+#: push-world.php:249
+msgid "Abandoned cart timeout (minutes)"
+msgstr "Задержка забытой корзины (в минутах)"
+
+#: push-world.php:250
+msgid "After what time to send the push about the abandoned cart? (in minutes)"
+msgstr "Через какое время отправлять пуш о забытой корзине? (Время в минутах)"
+
+#: push-world.php:257
+msgid "Icon for abandoned cart"
+msgstr "Иконка для забытой корзины"
+
+#: push-world.php:263
+msgid "You forgot something in your cart!"
+msgstr "Вы кое-что забыли в корзине!"
+
+#: push-world.php:270
+msgid "Your products is steel waiting for you in the shopping cart"
+msgstr "Ваш товар все еще ожидает вас в корзине"
+
+#: push-world.php:285 push-world.php:384 push-world.php:483 push-world.php:582
+#: push-world.php:681 push-world.php:783 push-world.php:882 push-world.php:981
+msgid "Image"
+msgstr "Изображение"
+
+#: push-world.php:286 push-world.php:385 push-world.php:484 push-world.php:583
+#: push-world.php:682 push-world.php:784 push-world.php:883 push-world.php:982
+msgid "Big image will be showing on Chrome browser on Windows platform"
+msgstr "Большое изображение отображается только в браузере Chrome на Windows"
+
+#: push-world.php:298
+msgid "Action 1 title"
+msgstr "Заголовок кнопки 1"
+
+#: push-world.php:305 push-world.php:404 push-world.php:503 push-world.php:602
+#: push-world.php:702 push-world.php:803 push-world.php:902 push-world.php:1001
+msgid "Action 1 url"
+msgstr "Ссылка кнопки 1"
+
+#: push-world.php:322 push-world.php:421 push-world.php:520 push-world.php:619
+#: push-world.php:719 push-world.php:820 push-world.php:919 push-world.php:1018
+msgid "Action 2 title"
+msgstr "Заголовок кнопки 1"
+
+#: push-world.php:329 push-world.php:428 push-world.php:527 push-world.php:626
+#: push-world.php:726 push-world.php:827 push-world.php:926 push-world.php:1025
+msgid "Action 2 url"
+msgstr "Ссылка кнопки 1"
+
+#: push-world.php:356 push-world.php:455 push-world.php:554 push-world.php:653
+#: push-world.php:755 push-world.php:854 push-world.php:953
+msgid "Icon"
+msgstr "Иконка"
+
+#: push-world.php:362 push-world.php:461 push-world.php:560 push-world.php:659
+#: push-world.php:761 push-world.php:860 push-world.php:959
+msgid "%first_name%! Your order status was changed"
+msgstr "%first_name%! Статус вашего заказа изменился"
+
+#: push-world.php:369
+msgid "Order №%order_number% is waiting for payment"
+msgstr "Заказ №%order_number% в ожидании оплаты"
+
+#: push-world.php:397 push-world.php:496 push-world.php:595 push-world.php:694
+#: push-world.php:796 push-world.php:895 push-world.php:994
+msgid "Action 1 text"
+msgstr "Текст кнопки 1"
+
+#: push-world.php:468
+msgid "Order №%order_number% is being processed"
+msgstr "Заказ №%order_number% в обработке"
+
+#: push-world.php:567
+msgid "Order №%order_number% is on hold"
+msgstr "Заказ №%order_number% приостановлен"
+
+#: push-world.php:666
+msgid "Order №%order_number% is completed"
+msgstr "Заказ №%order_number% выполнен"
+
+#: push-world.php:768
+msgid "Order №%order_number% is cancelled"
+msgstr "Заказ №%order_number% отменен"
+
+#: push-world.php:867
+msgid "Order №%order_number% is refunded"
+msgstr "Заказ №%order_number% возвращен"
+
+#: push-world.php:966
+msgid "Order №%order_number% is failed"
+msgstr "Заказ №%order_number% не удался"
+
+#: push-world.php:1047
+msgid "Help"
+msgstr "Помощь"
+
+#: push-world.php:1052
+msgid "Replacements list"
+msgstr "Список Замен"
+
+#: push-world.php:1057
+msgid ""
+"You can replace following variables in order statuses title and text (not "
+"for abandoned cart messages):"
+msgstr ""
+"Вы можете использовать следующие замены в заголовках и текстах статусов "
+"заказов (но не для забытой корзины):"
+
+#: push-world.php:1064
+msgid "Step 1"
+msgstr "Шаг 1"
+
+#: push-world.php:1069
+msgid ""
+"Register at <a href=\"http://push-world.local/user/register\">Push.World</a> "
+"through social networks or email"
+msgstr ""
+"Зарегистрируйтесь на сайте <a href=\"http://push-world.local/user/register"
+"\">Push.World</a> через социальные сети или по электронной почте"
+
+#: push-world.php:1080
+msgid "Step 2"
+msgstr "Шаг 2"
+
+#: push-world.php:1085
+msgid ""
+"Create platform, choose your website protocol and encoding, upload your "
+"website default icon"
+msgstr ""
+"Создайте платформу, выберите протокол сайта и кодировку, загрузите иконку "
+"своего веб-сайта"
+
+#: push-world.php:1096
+msgid "Step 3"
+msgstr "Шаг 3"
+
+#: push-world.php:1101
+msgid "Choose and set up widgets which you want to use."
+msgstr "Выберите и настройте виджеты, которые хотите использовать."
+
+#: push-world.php:1111
+msgid "Step 4"
+msgstr "Шаг 4"
+
+#: push-world.php:1116
+msgid ""
+"Copy embed code and paste it to WordPress plugin <i>For https website don't "
+"forget put serviceworker.js and manifest.json to website root directory via "
+"ftp or hosting panel file manager.</i>"
+msgstr ""
+"Скопируйте код и вставьте его в WordPress плагин <i> Для HTTPS веб-сайта не "
+"забудьте загрузить serviceworker.js и manifest.json в корневую директорию с "
+"помощью FTP или через  панель управления на хостинге. </i>"
+
+#: push-world.php:1127
+msgid "Step 5"
+msgstr "Шаг 5"
+
+#: push-world.php:1132
+msgid "Push \"Save changes\" button and enjoy."
+msgstr "Нажмите кнопку \"Сохранить изменения\" и наслаждайтесь."
+
+#: push-world.php:1142
+msgid "For more help visit <a href=\"http://push.world/help\">Push.World</a>"
+msgstr ""
+"Для получения дополнительных сведений посетите <a href=\"http://push.world/"
+"help\">Push.World</a>"
+
+#: push-world.php:1152
+msgid "Pushworld Plugin Settings"
+msgstr "Настройки плагина Push World"
+
+#: push-world.php:1153
+msgid "Push World"
+msgstr "Push World"
+
+#~ msgid "Website protocol"
+#~ msgstr "Протокол сайта"
+
+#~ msgid "Choose website protocol"
+#~ msgstr "Выберите протокол сайта"
+
+#~ msgid "Http"
+#~ msgstr "Http"
+
+#~ msgid "Https"
+#~ msgstr "Https"
+
+#~ msgid "Upload your manifest.json to root directory of your site"
+#~ msgstr "Загрузите manifest.json в корневую директорию вашего сайта"
+
+#~ msgid "File exists"
+#~ msgstr "Файл существует"
+
+#~ msgid "File not found"
+#~ msgstr "Файл не найден"
+
+#~ msgid "Recheck"
+#~ msgstr "Проверить"
+
+#~ msgid "Upload your serviceworker.js to root directory of your site"
+#~ msgstr "Загрузите serviceworker.js в корневую директорию вашего сайта"
